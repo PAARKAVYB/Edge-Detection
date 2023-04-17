@@ -13,10 +13,10 @@ Import the required packages for further process.
 Read the image and convert the bgr image to gray scale image.
 
 ### STEP 3:
-Use any filters for smoothing the image to reduse the noise.
+Use any filters for smoothing the image to reduce the noise.
 
 ### STEP 4:
-Apply the respective filters -Sobel,Laplacian edge dectector and Canny edge dector.
+Apply the respective filters -Sobel, Laplacian edge detector and Canny edge detector.
 
 ### STEP 5:
 Display the filtered image using plot and imshow.
